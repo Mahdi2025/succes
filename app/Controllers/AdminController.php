@@ -12,4 +12,5 @@ class AdminController
     {
         return View::render('admin/main.view');
     }
+    
 }
