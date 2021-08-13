@@ -1,0 +1,1 @@
+<?php require 'views/educations/partials/form.view.php' ?>
